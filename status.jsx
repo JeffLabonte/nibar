@@ -40,11 +40,14 @@ export const render = ({ output }) => {
     <div style={style}>
       <Cpu output={data.cpu} />
       <Wifi output={data.wifi} />
-      <Battery output={data.battery} />
-      <DateTime output={data.datetime} />
       <Dnd output={data.dnd} />
     </div>
   );
 };
 
 export default null;
+/*
+ *
+      <Battery output={data.battery} />
+      <DateTime output={data.datetime} />
+*/
