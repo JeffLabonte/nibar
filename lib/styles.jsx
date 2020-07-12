@@ -6,7 +6,7 @@ export default {
     red: "#ff8700",
     accent: "#5fafaf"
   },
-  fontSize: "11px",
+  fontSize: "14px",
   lineHeight: "20px",
-  fontFamily: "'Iosevka Custom Extended', 'SF Mono', monospace"
+  fontFamily: "'Hack Nerd Font', 'SF Mono', monospace"
 }
